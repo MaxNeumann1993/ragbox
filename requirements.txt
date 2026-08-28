@@ -1,0 +1,7 @@
+fastapi>=0.115
+uvicorn[standard]>=0.32
+pydantic-settings>=2.6
+qdrant-client>=1.12
+sentence-transformers>=3.3
+pypdf>=5.1
+openai>=1.55
